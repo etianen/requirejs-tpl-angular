@@ -1,0 +1,25 @@
+{
+  "name": "require-tpl",
+  "version": "1.0.0",
+  "authors": [
+    "Dave Hall <dave@etianen.com>"
+  ],
+  "description": "AngularJS template loader plugin for RequireJS.",
+  "main": "tpl.js",
+  "keywords": [
+    "angularjs",
+    "requirejs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "*",
+    "requirejs-text": "*"
+  }
+}
