@@ -6,7 +6,7 @@ AngularJS template loader plugin for RequireJS.
 ## Features
 
 * Load AngularJS templates using RequireJS.
-* Compile your AngularJS templates into your javascript during r.js optimization.
+* Inline AngularJS templates into your javascript during r.js optimization.
 
 
 ## Installation
@@ -20,7 +20,7 @@ $ bower install require-tpl
 
 ## Usage
 
-Template should be stored in a directory named `templates`, at a relative path of `../templates` to your `baseURL`.
+AngularJS templates should be stored in a directory named `templates`, at a relative path of `../templates` to your `baseURL`.
 A recommended directory structure is as follows:
 
 ```
