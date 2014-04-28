@@ -1,4 +1,4 @@
-# require-tpl
+# requirejs-tpl-angular
 
 AngularJS template loader plugin for RequireJS.
 
@@ -11,10 +11,10 @@ AngularJS template loader plugin for RequireJS.
 
 ## Installation
 
-Copy the `tpl.js` script into your RequireJS `baseURL`. You can also install require-tpl using [bower](http://bower.io/):
+Copy the `tpl.js` script into your RequireJS `baseURL`. You can also install requirejs-tpl-angular using [bower](http://bower.io/):
 
 ``` bash
-$ bower install require-tpl
+$ bower install requirejs-tpl-angular
 ```
 
 
@@ -77,8 +77,8 @@ into the built file, avoiding additional network requests in production.
 
 ## Support and announcements
 
-The require-tpl project was developed by Dave Hall. You can get the code
-from the [require-tpl project site](http://github.com/etianen/require-tpl).
+The requirejs-tpl-angular project was developed by Dave Hall. You can get the code
+from the [requirejs-tpl-angular project site](http://github.com/etianen/requirejs-tpl-angular).
 
 
 ## More information
