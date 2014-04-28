@@ -1,5 +1,5 @@
 {
-  "name": "require-tpl",
+  "name": "requirejs-tpl-angular",
   "version": "1.0.0",
   "authors": [
     "Dave Hall <dave@etianen.com>"
@@ -19,6 +19,7 @@
     "tests"
   ],
   "dependencies": {
+    "angular": "*",
     "requirejs": "*",
     "requirejs-text": "*"
   }
